@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+financas.db
+*.db-journal
